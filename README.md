@@ -20,7 +20,8 @@ Using the Python skills and knowledge of Pandas, I have create a summary DataFra
 5. Summary Data Frame:
 <img width="1134" alt="Screen Shot 2021-11-26 at 3 46 08 PM" src="https://user-images.githubusercontent.com/92557075/143661438-bdd8a32b-c2ca-45d1-9738-4f8d57cc3f5a.png">
 6. An annotated chart showing the total fares by city type:
-<img width="999" alt="Screen Shot 2021-11-27 at 12 06 18 PM" src="https://user-images.githubusercontent.com/92557075/143720790-7684b90c-8387-4018-bc01-2457bea77820.png">
+<img width="1018" alt="Screen Shot 2021-11-27 at 12 11 00 PM" src="https://user-images.githubusercontent.com/92557075/143720914-d1387dc0-2f55-40b5-85a2-18acd24f3fa6.png">
+
 
 
 # Summary:
